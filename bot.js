@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 client.on('ready', () => {
 
-    client.user.setGame(`الضربة الاولي ستؤلمك وتجعلك تصرخ.`,'https://www.twitch.tv/MeeRcY')
+    client.user.setGame(`ضربتي الاولي ستؤلمك وتجعلك تصرخ.`,'https://www.twitch.tv/MeeRcY')
 
 });
 
