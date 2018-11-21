@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 client.on('ready', () => {
 
-    client.user.setGame(`من يبي نسيان الماضي فل يتذكر من انا`,'https://www.twitch.tv/MeeRcY')
+    client.user.setGame(`إن قيادة الناس مهمة لا يحسن أداءها إلا الأبطال.`,'https://www.twitch.tv/MeeRcY')
 
 });
 
